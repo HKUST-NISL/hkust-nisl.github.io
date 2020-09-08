@@ -1,2 +1,2 @@
 # hkust-nisl.github.io
-NISL Web Page
+HKUST NISL Web Page
